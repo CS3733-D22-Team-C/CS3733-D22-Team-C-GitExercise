@@ -18,4 +18,8 @@ public class Main {
     
     App.launch(App.class, args);
   }
+
+  public static void printNick() {
+    System.out.println("Branch – Nick");
+  }
 }
