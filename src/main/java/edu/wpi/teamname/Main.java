@@ -4,10 +4,10 @@ public class Main {
 
   public static void main(String[] args) {
     // Step 4: Committing Changes
-    // TODO: Brandon !!!
+    System.out.println("Brandon");
     // TODO: Brian !!!
     // TODO: Grace !!!
-    // TODO: Jack !!!
+    System.out.println("Jack");
     // TODO: Matthew !!!
     // TODO: Mia !!!
     System.out.println("Nelson");
@@ -16,5 +16,9 @@ public class Main {
     // TODO: Vishnu !!!
 
     App.launch(App.class, args);
+  }
+
+  public static void printNick() {
+    System.out.println("Branch – Nick");
   }
 }
