@@ -9,12 +9,14 @@ public class Main {
     // TODO: Grace !!!
     System.out.println("Jack");
     // TODO: Matthew !!!
-    System.out.println("Mia Mueting  ");
+    System.out.println("Matthew");
+    System.out.println("Mia");
     System.out.println("Nelson");
     System.out.println("Nelson Branch");
     System.out.println("Nick");
     // TODO: Vagmi !!!
-    // TODO: Vishnu !!!
+
+    System.out.println("Vishnu");
 
     
     App.launch(App.class, args);
