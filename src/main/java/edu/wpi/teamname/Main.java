@@ -21,4 +21,9 @@ public class Main {
   public static void printNick() {
     System.out.println("Branch – Nick");
   }
+
+  public static void printGrace(){
+    System.out.println("Branch-Grace");
+
+  }
 }
