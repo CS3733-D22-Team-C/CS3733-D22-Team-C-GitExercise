@@ -18,4 +18,9 @@ public class Main {
     
     App.launch(App.class, args);
   }
+
+  public static void printBrandon() {
+    System.out.println("Branch - Brandon");
+  }
 }
+
