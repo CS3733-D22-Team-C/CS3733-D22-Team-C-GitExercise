@@ -27,4 +27,8 @@ public class Main {
   public static void printBrandon() {
     System.out.println("Branch - Brandon");
   }
+
+  public static void demoFunction() {
+    System.out.println("Coded!");
+  }
 }
